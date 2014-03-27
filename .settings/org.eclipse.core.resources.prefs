@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/android/guohow/melody/OpenSource.java=UTF-8
+encoding//src/android/guohow/melody/database/QuerTools.java=UTF-8
+encoding//src/android/guohow/melody/database/SQLHelper.java=UTF-8
+encoding//src/android/guohow/melody/fragment/PlayingActivity.java=UTF-8
+encoding//src/android/guohow/melody/preference/SharedConfig.java=UTF-8
+encoding//src/android/guohow/melody/service/player/MelodyPlayer.java=UTF-8
+encoding//src/android/guohow/melody/settings/DevelopersSettings.java=UTF-8
+encoding//src/android/guohow/melody/settings/PersonalizeSettings.java=UTF-8
+encoding//src/android/guohow/melody/settings/ThemeSettings.java=UTF-8
+encoding//src/android/guohow/melody/utils/MenuUtils.java=UTF-8
+encoding//src/android/guohow/melody/utils/MusicUtils.java=UTF-8
+encoding//src/android/guohow/melody/utils/ToneBean.java=UTF-8
+encoding//src/android/guohow/melody/welcome/CreateShut.java=UTF-8
+encoding//src/android/guohow/melody/welcome/WelcomeActivity.java=UTF-8
+encoding//src/android/guohow/melody/welcome/WelcomeSplash.java=UTF-8

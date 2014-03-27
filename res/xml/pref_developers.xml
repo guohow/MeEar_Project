@@ -1,0 +1,43 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+    <PreferenceCategory
+        android:key="more"
+        android:title="develop" >
+    </PreferenceCategory>
+
+    <Preference
+        android:key="about_perf"
+        android:summary="see all info"
+        android:title="about" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="android.guohow.melody.About"
+            android:targetPackage="android.guohow.melody" >
+        </intent>
+    </Preference>
+    
+    <Preference
+        android:key="code_perf"
+         android:summary="wanna read the source code?"
+        android:title="source code" >
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="android.guohow.melody.OpenSource"
+            android:targetPackage="android.guohow.melody" >
+        </intent>
+    </Preference>
+    
+    <Preference
+        android:key="progress_perf"
+         android:summary=""
+        android:title="progress" >
+         <intent
+            android:action="android.intent.action.MAIN"
+            android:targetClass="android.guohow.melody.Progress"
+            android:targetPackage="android.guohow.melody" >
+        </intent>
+        
+    </Preference>
+
+</PreferenceScreen>
